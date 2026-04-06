@@ -2,6 +2,9 @@
 result
 .direnv/
 
+# Docs / plans
+docs/
+
 # Secrets — never commit these
 *.local
 .env

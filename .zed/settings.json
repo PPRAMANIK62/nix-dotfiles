@@ -1,18 +1,17 @@
 {
-    "tab_size": 2,
     "hard_tabs": false,
     "soft_wrap": "editor_width",
     "format_on_save": "on",
     "languages": {
         "Nix": {
             "tab_size": 2,
-            "formatter": "language_server"
+            "formatter": "language_server",
         },
         "Shell Script": {
-            "tab_size": 4
+            "tab_size": 4,
         },
         "JSON": {
-            "tab_size": 4
-        }
-    }
+            "tab_size": 4,
+        },
+    },
 }
