@@ -2,6 +2,7 @@
     imports = [
         ./shell.nix
         ./packages.nix
+        ./git.nix
     ];
 
     home = {
