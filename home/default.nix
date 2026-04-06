@@ -1,6 +1,7 @@
 { pkgs, username, ... }: {
     imports = [
         ./shell.nix
+        ./packages.nix
     ];
 
     home = {
