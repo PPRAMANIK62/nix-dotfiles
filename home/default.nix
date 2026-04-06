@@ -6,6 +6,7 @@
         ./programs/ghostty.nix
         ./programs/vim.nix
         ./programs/zed.nix
+        ./programs/tmux.nix
     ];
 
     home = {
