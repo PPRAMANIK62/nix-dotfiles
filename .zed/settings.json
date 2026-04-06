@@ -8,7 +8,7 @@
             "tab_size": 2,
             "formatter": "language_server"
         },
-        "Bash": {
+        "Shell Script": {
             "tab_size": 4
         },
         "JSON": {
