@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-DOTFILES_REPO="https://github.com/PPRAMANIK62/dotfiles"
+DOTFILES_REPO="https://github.com/PPRAMANIK62/nix-dotfiles"
 DOTFILES_DIR="$HOME/.dotfiles"
 
 echo "==> [1/4] Installing Nix (Determinate Systems)..."
