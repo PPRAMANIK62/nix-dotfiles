@@ -4,6 +4,7 @@
         ./packages.nix
         ./git.nix
         ./programs/ghostty.nix
+        ./programs/vim.nix
     ];
 
     home = {
