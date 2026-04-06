@@ -3,6 +3,7 @@
         ./shell.nix
         ./packages.nix
         ./git.nix
+        ./programs/ghostty.nix
     ];
 
     home = {
