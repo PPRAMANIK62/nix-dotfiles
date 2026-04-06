@@ -1,0 +1,31 @@
+{ ... }: {
+    home.file.".config/lazygit/config.yml".text = ''
+        gui:
+          theme:
+            activeBorderColor:
+              - "#7aa2f7"
+              - bold
+            inactiveBorderColor:
+              - "#565f89"
+            optionsTextColor:
+              - "#7aa2f7"
+            selectedLineBgColor:
+              - "#283457"
+            cherryPickedCommitBgColor:
+              - "#45475a"
+            cherryPickedCommitFgColor:
+              - "#7aa2f7"
+            unstagedChangesColor:
+              - "#f7768e"
+            defaultFgColor:
+              - "#c0caf5"
+            searchingActiveBorderColor:
+              - "#e0af68"
+          mouseEvents: true
+          showIcons: true
+        git:
+          paging:
+            colorArg: always
+            pager: delta --dark --paging=never
+    '';
+}

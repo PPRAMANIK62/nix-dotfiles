@@ -17,6 +17,7 @@
         # git tools
         gh
         lazygit
+        delta
 
         # terminal multiplexer
         tmux

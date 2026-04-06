@@ -7,6 +7,7 @@
         ./programs/vim.nix
         ./programs/zed.nix
         ./programs/tmux.nix
+        ./programs/lazygit.nix
     ];
 
     home = {
