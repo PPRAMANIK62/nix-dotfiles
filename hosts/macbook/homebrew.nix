@@ -13,6 +13,7 @@
             "ghostty"
             "obs"
             "docker"
+            "zed"
             "font-iosevka-nerd-font"
         ];
         masApps = {
