@@ -1,0 +1,8 @@
+# Nix
+result
+.direnv/
+
+# Secrets — never commit these
+*.local
+.env
+.env.*
